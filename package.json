@@ -1,5 +1,5 @@
 {
-  "name": "gate-addon-knx",
+  "name": "@instathings/gate-addon-knx",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

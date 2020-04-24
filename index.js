@@ -9,7 +9,9 @@ class GateAddOnKnx extends EventEmitter {
   constructor(id, type, allDevices, options = {}) {
     /**
      * options : {
-     *    knx_id
+     *    individual_address,
+     *    group_address,
+     *    dpt
      *  }
      */
     super();
